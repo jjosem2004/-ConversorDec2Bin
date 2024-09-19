@@ -6,7 +6,7 @@
 # En esta función se quita el "0b" para dejar el "11"
 # ------------------------------------------------------
 def dec2bin(numero_decimal, numero_bits):
-    if numero_decimal >= 0
+    numero_binario = bin(numero_decimal)
     
     if numero_decimal >= 0
 
