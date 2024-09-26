@@ -12,3 +12,8 @@ Lorem ipsum dolor sit amet, **consectetur adipiscing elit**. _Duis porta, metus 
 - Monfort
 
 	:grinning:
+
+[!WARNING]
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+___
