@@ -13,7 +13,7 @@ ___
 
 	:grinning:
 ___
-(https://github.com/jjosem2004/-ConversorDec2Bin/blob/main/Image_1.jpg)
+![Texto alternativo](Image_1.jpg)
 ___
 [!WARNING]
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
